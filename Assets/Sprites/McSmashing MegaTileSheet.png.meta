@@ -1,0 +1,1167 @@
+fileFormatVersion: 2
+guid: 7dbb7c3867efdb943bfb53d333f2ded5
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: McSmashing
+    21300002: McSmashing MegaTileSheet_0
+    21300004: McSmashing MegaTileSheet_1
+    21300006: McSmashing MegaTileSheet_2
+    21300008: McSmashing MegaTileSheet_3
+    21300010: McSmashing MegaTileSheet_4
+    21300012: McSmashing MegaTileSheet_5
+    21300014: McSmashing MegaTileSheet_6
+    21300016: McSmashing MegaTileSheet_7
+    21300018: McSmashing MegaTileSheet_8
+    21300020: McSmashing MegaTileSheet_9
+    21300022: McSmashing MegaTileSheet_10
+    21300024: McSmashing MegaTileSheet_11
+    21300026: McSmashing MegaTileSheet_12
+    21300028: McSmashing MegaTileSheet_13
+    21300030: McSmashing MegaTileSheet_26
+    21300032: McSmashing MegaTileSheet_27
+    21300034: McSmashing MegaTileSheet_28
+    21300036: McSmashing MegaTileSheet_29
+    21300038: McSmashing MegaTileSheet_30
+    21300040: McSmashing MegaTileSheet_31
+    21300042: McSmashing MegaTileSheet_32
+    21300044: McSmashing MegaTileSheet_33
+    21300046: McSmashing MegaTileSheet_34
+    21300048: McSmashing MegaTileSheet_52
+    21300050: McSmashing MegaTileSheet_54
+    21300052: McSmashing MegaTileSheet_57
+    21300054: McSmashing MegaTileSheet_58
+    21300056: McSmashing MegaTileSheet_60
+    21300058: McSmashing MegaTileSheet_62
+    21300060: McSmashing MegaTileSheet_64
+    21300062: McSmashing MegaTileSheet_66
+    21300064: McSmashing MegaTileSheet_68
+    21300066: McSmashing MegaTileSheet_70
+    21300068: McSmashing MegaTileSheet_72
+    21300070: McSmashing MegaTileSheet_74
+    21300072: McSmashing MegaTileSheet_14
+    21300074: McSmashing MegaTileSheet_15
+    21300076: McSmashing MegaTileSheet_16
+    21300078: McSmashing MegaTileSheet_17
+    21300080: McSmashing MegaTileSheet_18
+    21300082: McSmashing MegaTileSheet_19
+    21300084: McSmashing MegaTileSheet_20
+    21300086: McSmashing MegaTileSheet_21
+    21300088: McSmashing MegaTileSheet_22
+    21300090: McSmashing MegaTileSheet_23
+    21300092: McSmashing MegaTileSheet_24
+    21300094: McSmashing MegaTileSheet_25
+    21300096: McSmashing MegaTileSheet_35
+    21300098: McSmashing MegaTileSheet_36
+    21300100: McSmashing MegaTileSheet_37
+    21300102: McSmashing MegaTileSheet_38
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: McSmashing MegaTileSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 625
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252f260ffc4f5614c91b6eb3543aff73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: McSmashing MegaTileSheet_1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 625
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bf80eed7507d74794790d593b4e94d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: McSmashing MegaTileSheet_2
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 625
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77097100e73b224f9b48720446f153f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: McSmashing MegaTileSheet_3
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 625
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67e841d9ed2f6740bee010289366bd2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: McSmashing MegaTileSheet_4
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 625
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62cc7f75bd13f0d4a9a39e3a15dbd0be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: McSmashing MegaTileSheet_5
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 625
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55648112537af3643bd455b1d94020b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: McSmashing MegaTileSheet_6
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 625
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792aa5fed70b8694cb6013ed0e75c9a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: McSmashing MegaTileSheet_7
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 625
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384ccd48f6a75364894200ab7ae4ad34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: McSmashing MegaTileSheet_8
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 625
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203d7d7f99a1d2a4abe9c0f5a63be68a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: McSmashing MegaTileSheet_9
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 625
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c0f79e3ee6f0c48a3a7478f29e01cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: McSmashing MegaTileSheet_10
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 625
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4bc7a09a27be7f4b8065430522b5418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: McSmashing MegaTileSheet_11
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 593
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960e64e368f55964e9c4c72a8b5a7112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: McSmashing MegaTileSheet_12
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 520
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be27cf31add0234188adfbc349f9c9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: McSmashing MegaTileSheet_13
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 520
+        width: 103
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319bf5286aee634498e047dc27153360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: McSmashing MegaTileSheet_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 313
+        width: 98
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc24752d1c8bab4ca489f6b92d0fa2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: McSmashing MegaTileSheet_27
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 313
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e76df3092d78747b2c6909e52ac6fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: McSmashing MegaTileSheet_28
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 313
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d960a1b0ff3ce4a99371be7bff9b07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: McSmashing MegaTileSheet_29
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 313
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9029d783f0a5045b1edaf7c165357f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: McSmashing MegaTileSheet_30
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 313
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894195e78e8e10b4eb2d98f5059c9d84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: McSmashing MegaTileSheet_31
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 313
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e761f5fbd0d9d1f4aab3ee8e2181af3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: McSmashing MegaTileSheet_32
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 313
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045402555f4ba504c8e0f6231d2536de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: McSmashing MegaTileSheet_33
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 313
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b988b3b751d2c614ebf38fb86db6bb2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: McSmashing MegaTileSheet_34
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 313
+        width: 82
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56189618e25fbb4cbccce9998487b79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: McSmashing MegaTileSheet_52
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 0
+        width: 173
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f707ce0eb36cc341942e30827f8a8cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: McSmashing MegaTileSheet_54
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 0
+        width: 171
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b95d85f5071d474cbfccf6de95abed9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: McSmashing MegaTileSheet_57
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 0
+        width: 173
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467adc7cb0197be499bb01687dbdafe4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: McSmashing MegaTileSheet_58
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 0
+        width: 171
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8779c15948d718e4599ab8758cce479a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: McSmashing MegaTileSheet_60
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 0
+        width: 203
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ed87b2a41ba2248b304c9b91816185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: McSmashing MegaTileSheet_62
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 0
+        width: 199
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2759fc4b6d5cdf4b97eaffab657ece0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: McSmashing MegaTileSheet_64
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 0
+        width: 201
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e16eebad8640a4981dc57e26d6bb0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: McSmashing MegaTileSheet_66
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 0
+        width: 207
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63569e8dbae7b1e4b852488fbc5d6dca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: McSmashing MegaTileSheet_68
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 0
+        width: 204
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ce480a27863f44f860d0fc30a52ef5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: McSmashing MegaTileSheet_70
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 0
+        width: 175
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363ee79eb80b48c4e9300106c4f2b76a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: McSmashing MegaTileSheet_72
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 0
+        width: 205
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9e7237ce8395040abf98f36884909e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: McSmashing MegaTileSheet_74
+      rect:
+        serializedVersion: 2
+        x: 2289
+        y: 0
+        width: 199
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f54cd79122ee740a4beda929f02f26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: McSmashing MegaTileSheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 552
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6803a730aea76ec4b80f8f63174e9f10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: McSmashing MegaTileSheet_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 546
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19b2de6181dc5c45b6b31f9fd518c54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: McSmashing MegaTileSheet_16
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 545
+        width: 13
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bedfd5d1650b11d4c9de7a2199d3fbb5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: McSmashing MegaTileSheet_17
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 546
+        width: 10
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18966b1fab1d46749836652d41a107b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: McSmashing MegaTileSheet_18
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 586
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b43b06261a36a641b7e7b9620a57e96
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: McSmashing MegaTileSheet_19
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 597
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ede252ba9ef68142bac525946f78105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: McSmashing MegaTileSheet_20
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 606
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5bca608832fbfc499ae70101e9bd6a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: McSmashing MegaTileSheet_21
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 617
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ca5b08571463d488a00d4517ef8589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: McSmashing MegaTileSheet_22
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 582
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894499dd54363ed43b769dd22ae3b952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: McSmashing MegaTileSheet_23
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 583
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877cd7eb33524354e8e633ad3081d420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: McSmashing MegaTileSheet_24
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 604
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852a81e21cc17b14f97282d7466a553d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: McSmashing MegaTileSheet_25
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 614
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5565b0d5742ca7a46b8ef76e8be44d3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: McSmashing MegaTileSheet_35
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 587
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f33fc6fc7aa5444998422ee2a4229ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: McSmashing MegaTileSheet_36
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 584
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279c3d0c5a285ea448e8a6c16a30c54a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: McSmashing MegaTileSheet_37
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 598
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb227817001aba4a9104b5fe012f413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: McSmashing MegaTileSheet_38
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 596
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2136d79c64f5e40bd94ff02129aedd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ab2289fd0758c8941b77ac511ca25fad
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
